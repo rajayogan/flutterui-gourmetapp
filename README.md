@@ -1,16 +1,11 @@
-# foodprofile
+# Gourmet takeaway app.
 
-A new Flutter project.
+A clean gourmet takeaway app screen made with flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5917564-Gourmet-Takeaway-Platform/attachments/1272818
 
-This project is a starting point for a Flutter application.
+How do I code this ? - https://youtu.be/PnAcfyCrOEs
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot_20190207-035721](https://user-images.githubusercontent.com/8137504/52412923-2742d400-2b06-11e9-9698-4e4200691206.png)
